@@ -136,5 +136,5 @@ En informatique, une révision représente l'instance d'un fichier à un moment 
 
 ## Liste des élèves de TS ayant réussi ce TP
 --------------------------------------------
-
-* GM alias noordo.
+* GM alias noordo,
+* SF alias noor1do104.
